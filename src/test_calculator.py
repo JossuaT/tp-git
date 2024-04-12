@@ -5,7 +5,6 @@ It includes test functions for addition,
 subtraction, multiplication, and division.
 """
 
-
 from calculator import addition, substraction, division, multiplication
 
 def test_addition():
