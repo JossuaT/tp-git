@@ -1,3 +1,10 @@
+"""
+This file provides basics calculator functionality.
+
+It includes functions for performing operations like addition,
+subtraction, multiplication, and division.
+"""
+
 def addition (a, b) -> float :
     """Add a and b and return the resuts"""
     return a + b
