@@ -1,5 +1,5 @@
-def addition (a, b) -> float : 
-    """Add a and b and return the resuts""" 
+def addition (a, b) -> float :
+    """Add a and b and return the resuts"""
     return a + b
 
 def substraction (c, d) -> float :
