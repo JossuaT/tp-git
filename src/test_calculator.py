@@ -20,6 +20,6 @@ def test_division():
     """Test if division is working correcty"""
     assert division(26, 2) == 13
 
-def test_division():
+def test_multiplication():
     """Test if multiplication is working correcty"""
     assert multiplication(3, 4) == 12
