@@ -9,3 +9,6 @@ def division (e, f) -> float :
         return e / f
     except :
         print("Div by 0 prohibited")
+
+def multiplication (g, h) -> float :
+    return g * h
