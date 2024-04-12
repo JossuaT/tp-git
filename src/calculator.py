@@ -3,3 +3,9 @@ def addition (a, b) -> float :
 
 def substraction (c, d) -> float :
     return c - d
+
+def division (e, f) -> float :
+    try :
+        return e / f
+    except :
+        print("Div by 0 prohibited")
